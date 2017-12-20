@@ -1,6 +1,10 @@
 # Debugging-jQuery
 
 Our assignment was to clone this repository and correct the jQuery errors.
+
+Original code is in the 'error_branch' branch of this repo:
+https://github.com/Codingdojo-Trey/Debugging-jQuery/tree/error_version
+
 After fixing the errors, the page now does the following:
 
   When the survey button is clicked, the page should alert the user with the message that is contained within the appropriate code.
